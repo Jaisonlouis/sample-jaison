@@ -1,0 +1,10 @@
+// code for to find your age
+#include<stdio.h>
+int main()
+{
+   int n;
+  printf("enter how old are you ");
+   scanf("%d",&n);
+   printf("your age is ",n);
+   return 0;
+}
